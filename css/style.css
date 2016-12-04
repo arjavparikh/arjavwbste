@@ -9,13 +9,6 @@
 
     Version      :  1.0 
 
-    Author       :  Pixel_Factory
-
-    Author URI   :  http://themeforest.net/user/Pixel_Factory
-
-    Author Email : h.nafees.anwar@gmail.com
-
-
 --------------------------------------------------------
 
 --------------------------------------------------------
@@ -579,7 +572,7 @@ body {
 .story {
     background: url("../images/background/story_bg.jpg");
     background-size: cover;
-    */ min-height: 100vh; */
+    /* min-height: 100vh; */
 }
 
 .story-content {
