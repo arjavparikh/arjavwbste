@@ -1,17 +1,5 @@
 /*
---------------------------------------------------------* 
 
-[INSTA, Main Stylesheet ]
-
-    Color        : BLUE ( #60a3f6 )
-
-    Name         : INSTA - Responsive Onepage Resume Template
-
-    Version      :  1.0 
-
---------------------------------------------------------
-
---------------------------------------------------------
 
    TABLE OF CONTENTS:
   ====================
@@ -802,6 +790,7 @@ body {
     padding: 0 15px;
     margin-left: 15px;
     width: 88%;
+    margin-bottom: 65px;
 }
 
 .experience-content h3 {
