@@ -55,12 +55,14 @@
 
 @import url("http://fonts.googleapis.com/css?family=Hind:300,500");
 @import url("http://fonts.googleapis.com/css?family=Open+Sans:400,400italic");
+@import url('https://fonts.googleapis.com/css?family=Hind|Open+Sans');
+
 
                     /*----------------------
                        2 ) Preloader Styles
                       ----------------------*/
 
-#preloader {
+#preloader 
     position: fixed;
     top: 0;
     left: 0;
@@ -252,6 +254,7 @@ h4,
 h5,
 h6 {
     font-family: 'Hind', sans-serif;
+    
 }
 
 p {
