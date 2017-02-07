@@ -566,8 +566,8 @@ body {
 
 .story {
     background: url("../images/background/story_bg.jpg");
-    background-size: cover;
-    /* min-height: 100vh; */
+    background-size: auto;
+     /*min-height: 100vh; */
 }
 
 .story-content {
@@ -677,7 +677,7 @@ body {
 
 .resume-page .image-container {
     background: url("../images/background/resume_image.jpg");
-    background-size: cover;
+    background-size: auto;
     background-position: bottom;
 }
 
@@ -864,7 +864,7 @@ body {
 
 .portfolio-page .image-container {
     background: url("../images/background/portfolio_image.jpg");
-    background-size: cover;
+    background-size: auto;
     background-position: bottom;
 }
 

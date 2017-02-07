@@ -152,10 +152,10 @@ $(document).ready(function () {
         ----------------------------------------  */
 
     $('.intro-content .social-media [data-toggle="tooltip"]').tooltip({
-        placement: 'bottom'
+        placement: 'bottom', trigger: "hover"
     });
 
-    $('.contact-details .social-media [data-toggle="tooltip"]').tooltip();
+    $('.contact-details .social-media [data-toggle="tooltip"]').tooltip({trigger: "hover"});
 
     /*  ------------
          Pie Charts
